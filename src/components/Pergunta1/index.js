@@ -205,7 +205,9 @@ function Pergunta1() {
                     </div>
                   )}
             </div>
+            <div className="containerbutao">
         <button className="voltar" onClick={voltarPergunta2}>VOLTAR</button>
+        </div>
       </div>
     </div>
     </div>
